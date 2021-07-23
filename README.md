@@ -1,44 +1,47 @@
 # tech_interview.zip
 
-### 면접 질문 모음집
+### ✅ 면접 질문 모음집
 
 ```
 💁‍♀️  취업 준비를 하며 모았던 인성 면접, 직무 면접 질문들입니다.
-    답 채워주시는 PR 환영합니다 🤗
+    Issue, PR 환영합니다 🤗
 ```
+
+<a href="https://4z7l.notion.site/zip-56929380efef41f8b47a5b787e8401b4" target="_blank"><img src="https://img.shields.io/badge/Notion%EC%97%90%EC%84%9C%20%EB%B3%B4%EA%B8%B0-000000?style=plastic&logo=Notion&logoColor=white"/></a>
+
 
 <br>
 
 ## 👉 인성 면접
 
-- [1️⃣ 인성 질문]()
-- [2️⃣ 역량 질문]()
-- [3️⃣ 경험 질문]()
-- [4️⃣ 압박 질문]()
-- [5️⃣ 기타 질문]()
-- [6️⃣ 돌발/창의성 질문]()
-- [7️⃣ 기업/직무 적합도 및 관심도 질문]()
-- [8️⃣ IT기업 질문]()
+- [1️⃣ **인성 질문**](/인성/1_인성.md)
+- [2️⃣ **역량 질문**](/인성/2_역량.md)
+- [3️⃣ **경험 질문**](/인성/3_경험.md)
+- [4️⃣ **압박 질문**](/인성/4_압박.md)
+- [5️⃣ **기타 질문**](/인성/5_기타.md)
+- [6️⃣ **돌발/창의성 질문**](/인성/6_돌발창의성.md)
+- [7️⃣ **기업/직무 적합도 및 관심도 질문**](/인성/7_적합도.md)
+- [8️⃣ **IT기업 질문**](/인성/8_IT.md)
 
 
 <br>
 
 ## 👉 직무 면접
 
-- <a href=""><img width="15px" src="/image/cpp.png"/> <b>C++</b></a>
-- <a href=""><img width="15px" src="/image/java.png"/> <b>JAVA</b></a>
-- <a href=""><img width="15px" src="/image/kotlin.svg"/> <b>Kotlin</b></a>
-- <a href=""><img width="15px" src="/image/algorithm.png"/> <b>Algorithm</b></a>
-- <a href=""><img width="15px" src="/image/datastructure.png"/> <b>Data Structrue</b></a>
-- <a href=""><img width="15px" src="/image/database.png"/> <b>Database</b></a>
-- <a href=""><img width="15px" src="/image/network.png"/> <b>Network</b></a>
-- <a href=""><img width="15px" src="/image/os.png"/> <b>Operating System</b></a>
-- <a href=""><img width="15px" src="/image/se.png"/> <b>Software Engineering</b></a>
-- <a href=""><img width="15px" src="/image/android.png"/> <b>Android</b></a>
-- <a href=""><img width="15px" src="/image/frontend.png"/> <b>Frontend</b></a>
-- <a href=""><img width="15px" src="/image/rxjava.png"/> <b>RxJava</b></a>
-- <a href=""><img width="15px" src="/image/git.png"/> <b>Git</b></a>
-- <a href="">✏️ **손코딩 문제**</a>
+- <a href="/직무/CPP.md"><img width="15px" src="/image/cpp.png"/> <b>C++</b></a>
+- <a href="/직무/JAVA.md"><img width="15px" src="/image/java.png"/> <b>JAVA</b></a>
+- <a href="/직무/Kotlin.md"><img width="15px" src="/image/kotlin.svg"/> <b>Kotlin</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/algorithm.png"/> <b>Algorithm</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/datastructure.png"/> <b>Data Structrue</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/database.png"/> <b>Database</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/network.png"/> <b>Network</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/os.png"/> <b>Operating System</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/se.png"/> <b>Software Engineering</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/android.png"/> <b>Android</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/frontend.png"/> <b>Frontend</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/rxjava.png"/> <b>RxJava</b></a>
+- <a href="/직무/.md"><img width="15px" src="/image/git.png"/> <b>Git</b></a>
+- <a href="/직무/.md">✏️ **손코딩 문제**</a>
 
 <br><br>
 
