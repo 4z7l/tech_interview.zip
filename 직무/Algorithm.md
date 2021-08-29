@@ -1,11 +1,11 @@
 # Algorithm
 
-<div class="page-body">
+
    <h2>시간복잡도</h2>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>시간 복잡도 VS 공간 복잡도</strong></span></summary>
+            <summary><strong>시간 복잡도 VS 공간 복잡도</strong></summary>
             <p><strong>시간 복잡도</strong> : 알고리즘을 수행하는데 연산이 몇번 이루어지는지</p>
             <p><strong>공간 복잡도</strong> : 알고리즘이 필요로하는 자원의 양</p>
          </details>
@@ -14,7 +14,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?</strong></span></summary>
+            <summary><strong>시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?</strong></summary>
             <p>실제 수행 시간에 미치는 요소는 아주 많다. CPU의 클록 속도, 1클록에 수행할 수 있는 명령어 수, 프로그램의 메모리 접근 패턴, 운영체제와 컴파일러 버전 등..</p>
             <p>시간 복잡도는 반복문이 반복되는 횟수로 판단한다.</p>
          </details>
@@ -23,14 +23,14 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>시간복잡도가 작은 알고리즘은 무조건 빠른가?</strong></span></summary>
+            <summary><strong>시간복잡도가 작은 알고리즘은 무조건 빠른가?</strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오</strong></span></summary>
+            <summary><strong>최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오</strong></summary>
             <ol>
                <li>Quick Sort</li>
             </ol>
@@ -43,7 +43,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>빅오 표기법에 대해서 설명해주세요</strong></span></summary>
+            <summary><strong>빅오 표기법에 대해서 설명해주세요</strong></summary>
             <p>알고리즘의 효율성을 표기해주는 기법</p>
             <ul>
                <li>빅오(Big-O) : 최악의 경우</li>
@@ -63,28 +63,28 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md">최장 증가 수열(LIS)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md">최장 증가 수열(LIS)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md">최소 공통 조상(LCA)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md">최소 공통 조상(LCA)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md">비트마스크(BitMask)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md">비트마스크(BitMask)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>Call by value, call by reference의 차이점을 설명하시오.</strong></span></summary>
+            <summary><strong>Call by value, call by reference의 차이점을 설명하시오.</strong></summary>
             <p>Call by Value는 함수를 호출할때 값을 넘겨주고, Call by Reference는 변수의 레퍼런스를 전달합니다. Call by value는 함수 내에서 값이 변경되어도 원본 값은 변경되지 않지만, Call by Reference는 원본 값도 변경된다는 특징이 있습니다.</p>
          </details>
       </li>
@@ -92,7 +92,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>DFS &amp; BFS</strong></span></summary>
+            <summary><strong>DFS &amp; BFS</strong></summary>
             <p><strong>DFS</strong></p>
             <ul>
                <li>다음 브랜치로 넘어가기 전에 해당 브랜치를 모두 탐색</li>
@@ -125,7 +125,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.</strong></span></summary>
+            <summary><strong>크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.</strong></summary>
             <p><strong>크루스칼 알고리즘</strong></p>
             <ul>
                <li>간선 위주의 알고리즘</li>
@@ -160,7 +160,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>다익스트라 알고리즘에 대해서 설명해 주세요.</strong></span></summary>
+            <summary><strong>다익스트라 알고리즘에 대해서 설명해 주세요.</strong></summary>
             <p>그래프의 최단거리를 찾기 위한 알고리즘</p>
             <p>현재까지의 최단거리를 계속 갱신</p>
          </details>
@@ -169,7 +169,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>LinkedList vs ArrayList의 차이점에 대해 설명하시오</strong></span></summary>
+            <summary><strong>LinkedList vs ArrayList의 차이점에 대해 설명하시오</strong></summary>
             <p><strong>ArrayList</strong></p>
             <ul>
                <li>데이터들이 순서대로 늘어선 배열의 형식</li>
@@ -196,7 +196,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>인접행렬과 인접리스트에 대해 설명하시오</strong></span></summary>
+            <summary><strong>인접행렬과 인접리스트에 대해 설명하시오</strong></summary>
             <p><strong>인접행렬</strong></p>
             <ul>
                <li>이차원 배열로 표현</li>
@@ -236,28 +236,28 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>54321 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?</strong></span></summary>
+            <summary><strong>54321 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?</strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>랜덤으로 배치된 배열이 있을때, 어떤 정렬을 사용하면 좋을까요?</strong></span></summary>
+            <summary><strong>랜덤으로 배치된 배열이 있을때, 어떤 정렬을 사용하면 좋을까요?</strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>자릿수가 모두 같은 수가 담긴 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?</strong></span></summary>
+            <summary><strong>자릿수가 모두 같은 수가 담긴 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?</strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>정렬을 하는 이유는 무엇인가요?</strong></span></summary>
+            <summary><strong>정렬을 하는 이유는 무엇인가요?</strong></summary>
             <p>데이터를 탐색하기 위해</p>
             <p>만약 정렬이 되어있다면 이진탐색을 할 수 있음</p>
          </details>
@@ -266,7 +266,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>선택 정렬(Selection Sort)</strong></span></summary>
+            <summary><strong>선택 정렬(Selection Sort)</strong></summary>
             <ul>
                <li>앞에서부터 차근차근 비교하며 정렬하는 방법</li>
             </ul>
@@ -282,7 +282,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>삽입 정렬(Insertion Sort)</strong></span></summary>
+            <summary><strong>삽입 정렬(Insertion Sort)</strong></summary>
             <ul>
                <li>원소가 삽입될 자리를 찾아나가는 정렬 방식</li>
             </ul>
@@ -298,7 +298,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>거품 정렬(Bubble Sort)</strong></span></summary>
+            <summary><strong>거품 정렬(Bubble Sort)</strong></summary>
             <ul>
                <li>인접한 두 원소를 비교하며 정렬하는 방식</li>
             </ul>
@@ -314,14 +314,14 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md">퀵 정렬(Quick Sort)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md">퀵 정렬(Quick Sort)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><strong><span style="border-bottom:0.05em solid">병합 정렬(Merge Sort)</span></strong></summary>
+            <summary><strong>병합 정렬(Merge Sort)</span></strong></summary>
             <ul>
                <li>분할정복을 이용한 방식</li>
             </ul>
@@ -367,28 +367,28 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md">힙 정렬(Heap Sort)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md">힙 정렬(Heap Sort)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md">기수 정렬(Radix Sort)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md">기수 정렬(Radix Sort)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md">계수 정렬(Count Sort)</a></strong></span></summary>
+            <summary><strong><a href="https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md">계수 정렬(Count Sort)</a></strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>이분 탐색(Binary Search)</strong></span></summary>
+            <summary><strong>이분 탐색(Binary Search)</strong></summary>
             <p>탐색 범위를 두 부분으로 나누며 탐색함</p>
             <ul>
                <li>전체 탐색 O(N)</li>
@@ -402,7 +402,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>언제 불안정정렬 쓰면 안될까?</strong></span></summary>
+            <summary><strong>언제 불안정정렬 쓰면 안될까?</strong></summary>
             <p>기존의 정렬은 유지해야할때</p>
             <p>A,B 쌍인데 B는 이미 정렬상태로 입력됨. 안정정렬쓰면 좋지만 불안정정렬쓰면 기존의 정렬 깨짐</p>
          </details>
@@ -411,7 +411,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>언어 기본제공 정렬은 어떻게 구현되어 있을까?</strong></span></summary>
+            <summary><strong>언어 기본제공 정렬은 어떻게 구현되어 있을까?</strong></summary>
          </details>
       </li>
    </ul>
@@ -422,14 +422,14 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>Tail Recursion</strong></span></summary>
+            <summary><strong>Tail Recursion</strong></summary>
          </details>
       </li>
    </ul>
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>분할정복에 대해 설명하고 그 예시를 드시오</strong></span></summary>
+            <summary><strong>분할정복에 대해 설명하고 그 예시를 드시오</strong></summary>
             <p>큰 문제를 작은 문제로 나눠서 작은 문제를 해결해 합치면서 해를 구하는 것</p>
             <ol>
                <li>Merge Sort / Quick Sort</li>
@@ -443,7 +443,7 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>Dynamic Programming가 무엇이고 왜 어떻게 사용하는가?</strong></span></summary>
+            <summary><strong>Dynamic Programming가 무엇이고 왜 어떻게 사용하는가?</strong></summary>
             <ul>
                <li>복잡한 문제를 간단한 여러개로 나누어 푸는 것</li>
             </ul>
@@ -459,10 +459,9 @@
    <ul>
       <li>
          <details>
-            <summary><span style="border-bottom:0.05em solid"><strong>Memoization 에 대해 설명하시오</strong></span></summary>
+            <summary><strong>Memoization 에 대해 설명하시오</strong></summary>
             <p>한 번 계산한 것은 저장해두고 재활용함</p>
          </details>
       </li>
    </ul>
    <p></p>
-</div>
