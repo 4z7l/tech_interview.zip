@@ -4,7 +4,7 @@
 
 ```
 💁‍♀️  취업 준비를 하며 모았던 인성 면접, 직무 면접 질문들입니다.
-    Issue, PR 환영합니다 🤗
+    Notion에서 보면 더 깔끔합니다.
 ```
 
 <a href="https://4z7l.notion.site/zip-56929380efef41f8b47a5b787e8401b4" target="_blank"><img src="https://img.shields.io/badge/Notion%EC%97%90%EC%84%9C%20%EB%B3%B4%EA%B8%B0-000000?style=plastic&logo=Notion&logoColor=white"/></a>
