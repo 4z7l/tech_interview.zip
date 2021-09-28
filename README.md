@@ -9,6 +9,8 @@
 
 <a href="https://4z7l.notion.site/zip-56929380efef41f8b47a5b787e8401b4" target="_blank"><img src="https://img.shields.io/badge/Notion%EC%97%90%EC%84%9C%20%EB%B3%B4%EA%B8%B0-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
+[**📌 2021 상반기 네이버 신입 공채 후기**](https://4z7l.github.io/2021/09/28/2021_naver_recruit.html)
+
 
 <br>
 
@@ -47,7 +49,7 @@
 
 > :bookmark: **REFERENCE** <br>
 [https://ktko.tistory.com/entry/자바-손코딩-문제](https://ktko.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%86%90%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C)<br>
-[https://www.midashri.com/blog/500interviewlist](https://www.midashri.com/blog/500interviewlist)
+[https://www.midashri.com/blog/500interviewlist](https://www.midashri.com/blog/500interviewlist)<br>
 [https://gyoogle.dev/blog/guide/면접 준비.html](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<br>
 [https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
 [https://github.com/WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)<br>
