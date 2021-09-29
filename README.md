@@ -28,7 +28,7 @@
 
 <br>
 
-## 👉 직무 면접
+## 👉 기술 면접
 
 - <a href="/직무/CPP.md"><img width="15px" src="/image/cpp.png"/> <b>C++</b></a>
 - <a href="/직무/JAVA.md"><img width="15px" src="/image/java.png"/> <b>JAVA</b></a>
